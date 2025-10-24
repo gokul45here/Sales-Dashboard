@@ -37,8 +37,4 @@ Power BI | Power Query | DAX | GitHub | PowerPoint
 - `Sales_Dashboard.pbix`
 - `PPT_Summary.pptx`
 - `Dashboard_Screenshots/`
-- `sales_data_sample (1) (1).csv`
-
-## 🔗 Submission
-Upload all files to GitHub and submit the repo link here:  
-👉 [Submission Form](https://forms.gle/S7hRFbGEQJPVeq2T6)
+- `sales_data_sample (1) (1).csv
